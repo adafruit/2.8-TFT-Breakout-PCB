@@ -6,7 +6,7 @@ Click to view/purchase from the Adafruit Shop:
 
 Add some jazz & pizazz to your project with a color touchscreen LCD. This TFT display is big (2.8" diagonal) bright (4 white-LED backlight) and colorful! 240x320 pixels with individual RGB pixel control, this has way more resolution than a black and white 128x64 display. As a bonus, this display has a resistive touchscreen attached to it already, so you can detect finger presses anywhere on the screen.
 
-The ILI9325 screen has been discontinued, but the 2.8" ILI341 touchscreen breakout is nearly identical which as both 8-bit and SPI interface modes as well as a MicroSD card socket all in the same form factor! 
+The ILI9325 screen has been discontinued, but the 2.8" ILI341 touchscreen breakout is nearly identical, having both an 8-bit and a SPI interface mode as well as a MicroSD card socket, all in the same form factor! 
 
 Adafruit 2.8" 18-bit color TFT LCD displays with microSD card breakout
 
